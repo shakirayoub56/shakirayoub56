@@ -4,7 +4,7 @@
 <mg align ="right" alt="coding" width="400" src="https://thumbs.dreamstime.com/b/composite-image-businessman-using-futuristic-digital-screen-against-spiral-shiny-binary-code-85731107.jpg"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shakirayoub56&label=Profile%20views&color=0e75b6&style=flat" alt="shakirayoub56" /> </p>
 
-<p align="right"> <img scr="https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?size=626&ext=jpg" alt="coding>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shakirayoub56" alt="shakirayoub56" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/shakirayoub5" target="blank"><img src="https://img.shields.io/twitter/follow/shakirayoub5?logo=twitter&style=for-the-badge" alt="shakirayoub5" /></a> </p>
