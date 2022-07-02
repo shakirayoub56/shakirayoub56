@@ -1,4 +1,4 @@
-[![MaterHead](https://thumbs.dreamstime.com/b/composite-image-businessman-using-futuristic-digital-screen-against-spiral-shiny-binary-code-85731107.jpg")]
+![MaterHead](https://thumbs.dreamstime.com/b/composite-image-businessman-using-futuristic-digital-screen-against-spiral-shiny-binary-code-85731107.jpg")
 <h1 align="center">Hi 👋, I'm Shakir Ayoub</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 <mg align ="right" alt="coding" width="400" src="https://thumbs.dreamstime.com/b/composite-image-businessman-using-futuristic-digital-screen-against-spiral-shiny-binary-code-85731107.jpg"
