@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Shakir Ayoub</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 <mg align ="right" alt="coding" width="400" src="https://thumbs.dreamstime.com/b/composite-image-businessman-using-futuristic-digital-screen-against-spiral-shiny-binary-code-85731107.jpg"
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shakirayoub56&label=Profile%20views&color=0e75b6&style=flat" alt="shakirayoub56" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shakirayoub56&label=Profile%20views&color=0e75b6&style=flat" alt="shakirayoub56](https://camo.githubusercontent.com/ee5e67e6657c89732a9610604b6e7d5f03f88a063a0fda2d03105b607b5fbc84/68747470733a2f2f7669736d652e636f2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323031392f31302f616e696d617465642d70726573656e746174696f6e2d736f6674776172652d6865616465722d776964652e676966" /> </p>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shakirayoub56" alt="shakirayoub56" /></a> </p>
